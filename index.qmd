@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+:::{.columns}
+:::{.column width="60%"}
+Hello! I am a PhD candidate in the Economics Department at the University of Wisconsin-Madison and an Innovation Policy Lab Fellow for the Congressional Research Service.
+
+I am an applied microeconomist whose research focuses on topics in crime and housing. My research examines how social and public policy affect individual well-being.
+:::
+
+:::{.column width="40%"}
+![](Daniels-Mary-16.jpg){fig-align="center" width="40%"}
+:::
+:::

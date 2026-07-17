@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mary Daniels"
+  navbar:
+    background: "deeppink"
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+
+format:
+  html:
+    theme:
+      - lumen
+      - brand
+    css: styles.css
+    toc: true
+
+
+
