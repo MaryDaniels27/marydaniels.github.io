@@ -1,0 +1,231 @@
+---
+format: 
+  pdf:
+    pdf-engine: xelatex
+    output-file: "Daniels_Mary_CV.pdf"
+    keep-text: true
+    documentclass: article
+    mainfont: "Times New Roman"
+    colorlinks: false
+    geometry:
+        - top=1in 
+        - bottom=1in
+        - left=1in
+        - right=1in
+    header-includes:
+    - |
+        \setlength{\LTleft}{0pt}
+        \setlength{\LTright}{0pt}
+fontsize: 12pt
+---
+\huge 
+\begin{center} 
+\textbf{Mary Daniels}
+\end{center}
+```{=latex}
+\vspace{-15pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+
+\normalsize \flushleft
+
+\renewcommand{\toprule}[2]{}
+\renewcommand{\bottomrule}[2]{}
+
+::: {tbl-colwidths="[50,50]"}
+|  |  |
+|:----------|----------:|
+| **Home** | **Work** |
+|Adelphi, MD 20783 | University of Wisconsin-Madison |
+| \href{mailto:[mdaniels6@wisc.edu]}{mdaniels6@wisc.edu} | Department of Economics |
+| 502-881-0030  | 1180 Observatory Drive, Room 8418A |
+| | Madison, WI, 53706 |
+:::
+
+<!-- Education -->
+## EDUCATION
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,59,40]"}
+|  |  | |
+|:----------|:----------|----------:|
+| | **University of Wisconsin-Madison** | |
+| | Ph.D. Economics |  Expected 2027 |
+| | M.S. Economics | 2024 |
+| | | |
+| | **Bellarmine University** | |
+| | B.A. Economics, summa cum laude | 2021 |
+:::
+
+## RESEARCH INTERESTS
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,99]"}
+| | |
+|---|---|
+| | Applied microeconomics, economics of crime, urban economics |
+:::
+
+
+## WORKING PAPERS
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,99]"}
+| | |
+|---|---|
+| | “The Criminal Justice League: Evaluating Multidisciplinary Approaches to Combatting Intimate Partner Violence” (Job Market Paper) |
+:::
+
+## WORK IN PROGRESS
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,99]"}
+| | |
+|---|---|
+| | “The Effect of Firearm Dispossession Laws on Domestic Violence” – with Asha Bharadwaj |
+| | |
+|  | “The Effect of Nuisance Ordinances on Residential Mobility” – with Max Besbris and Katherine Kwok|
+| | |
+|  | “The Effect of Pre-Filing Notices on Evictions: Findings from Maryland” |
+:::
+\pagebreak
+## PROFESSIONAL PUBLICATIONS
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,99]"}
+| | |
+|---|---|
+| | Daniels, M., Keightley, M., & McCarty, M. (2026). Housing Cost Burdens in 2024: In Brief. Congressional Research Service. [https://www.congress.gov/crs-product/R48945](https://www.congress.gov/crs-product/R48945) |
+| | |
+| | Billings, K. & Daniels, M. (2026). Family Violence Prevention and Services Act (FVPSA): Background and Funding. Congressional Research Service. [https://www.congress.gov/crs-product/R42838](https://www.congress.gov/crs-product/R42838) ||
+| | |
+| | Daniels, M. & Tollestrup, J. (2025). Parenting Time Agreements and Child Support. Congressional Research Service. [https://www.congress.gov/crs-product/IF13043](https://www.congress.gov/crs-product/IF13043) |
+:::
+
+## RESEARCH EXPERIENCE
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,79, 20]"}
+| | | |
+|---|:---|---:|
+| |**Library of Congress, Congressional Research Service** | |
+| | Innovation Policy Lab Fellow | 2024-2026 |
+| | |
+| | **National Institutes of Health** | |
+| |Predoctoral Trainee | 2023-2024|
+| | | |
+| | **Microsoft Future Work Initiative** | |
+| | Intern | 2020-2021 |
+| | | |
+| | **Schneider Electric** | |
+| | Research Analyst Intern | 2019-2020 |
+| | | |
+| | **Louisville Urban League** | |
+| | Student Research Consultant | 2019 |
+:::
+
+## TEACHING EXPERIENCE
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,79, 20]"}
+| | | |
+|---|:---|---:|
+| | **University of Wisconsin-Madison** | |
+| | Grader | 2022-2024 |
+| | | |
+| | **Bellarmine University** | |
+| | Tutor | 2019-2021 |
+| | *Economics and History* |
+| | | |
+| | **Bellarmine University** | |
+| | Writing Consultant | 2020-2021 |
+:::
+
+## AWARDS AND FELLOWSHIPS
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,69, 30]"}
+| | | |
+|---|:---|---:|
+| | Innovation Policy Lab Dissertation Fellowship | 2024-2026 |
+| | NIH/NICHD T32 Predoctoral Trainee in Population Research | 2023-2024, 2026-2027 |
+| | **University of Wisconsin-Madison Department of Economics** | |
+| | Juli Plant Grainger Summer Fellowship | 2023 |
+| | Department Fellowship | 2022-2023, 2026-2027 |
+| | **Bellarmine University** | |
+| | Mary Mildred Sullivan Award | 2021 |
+| | Ryann Marie Tewell Award in Economics | 2021 |
+| | Mr. and Mrs. Kenneth A. Barker Distinguished Service Award | 2021 |
+| | Fred W Rhodes Servant Leadership Award | 2020 |
+| | Lenihan Award for Campus and Community | 2020 |
+| | Bellarmine University Leadership Award | 2020 |
+| | Dean’s List | 2018-2021 |
+| | Dean’s List, Salem College | 2017 |
+:::
+
+## AFFILIATIONS
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,99]"}
+| | |
+|---|:---|
+| | The Center for Demography and Ecology, Fellow |
+| | The Institute for Research on Poverty, Graduate Research Fellow |
+| | Wisconsin Research Data Center, Researcher (Security Clearance: Special Sworn Status) |
+:::	
+
+## PRESENTATIONS
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[1,99]"}
+| | |
+|---|:---|
+| | 2026: Southern Economic Association (scheduled) |
+| | 2025: Summer Research Workshop by the Institute for Research on Poverty |
+| | 2024: Population Association of America |
+:::
+
+## REFERENCES
+```{=latex}
+\vspace{-10pt}
+\noindent\rule{\linewidth}{0.4pt}
+```
+::: {tbl-colwidths="[50,50]"}
+| | |
+|:---|---:|
+|Jeff Smith (co-chair) | Jesse Gregory (co-chair) |
+| Department of Economics | Department of Economics |
+| University of Wisconsin-Madison | University of Wisconsin-Madison |
+| \href{mailto:[econjeff@ssc.wisc.edu]}{econjeff@ssc.wisc.edu} | \href{mailto:[jmgregory@wisc.edu]}{jmgregory@wisc.edu} |
+| | |
+| J. Michael Collins | Maggie McCarty |
+| School of Human Ecology | Domestic Social Policy Division |
+| University of Wisconsin-Madison | Congressional Research Service |
+| \href{mailto:[jmcollins@wisc.edu]}{jmcollins@wisc.edu} | \href{mailto:[mmccarty@crs.loc.gov]}{mmccarty@crs.loc.gov} |
+| | |
+| Corina Mommaerts | |
+| Department of Economics | |
+| University of Wisconsin-Madison | |
+| \href{mailto:[cmommaerts@wisc.edu]}{cmommaerts@wisc.edu} | |
+:::
+
